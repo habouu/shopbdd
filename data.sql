@@ -90,3 +90,4 @@ create table carrier (
     price decimal(5,2) not null,
     constraint pk_carrier primary key (id)
 );
+
