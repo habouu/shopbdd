@@ -1,4 +1,5 @@
 create database bddshop;
+use bddshop;
 
 create table user (
     id int auto_increment not null,
